@@ -1,4 +1,4 @@
-#Project Calculator
+# Project Calculator
 
 Continuing with the Odin Project tutorails, we come to this project.
 
